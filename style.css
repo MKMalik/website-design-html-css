@@ -382,6 +382,11 @@ main p {
     font-size: 18px;
 }
 
+#owner-details {
+    text-align: center;
+    padding: 20px;
+}
+
 
 
 
